@@ -12,3 +12,8 @@ h1 {
   width: 200px;
   border-radius: 100px;
 }
+
+canvas {
+  border-radius: 20px;
+  border: 2px solid white;
+}
